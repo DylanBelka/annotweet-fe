@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/annotweet-fe/static/css/main.0ebde3ef.chunk.css",
-    "main.js": "/annotweet-fe/static/js/main.0afa2169.chunk.js",
-    "main.js.map": "/annotweet-fe/static/js/main.0afa2169.chunk.js.map",
+    "main.js": "/annotweet-fe/static/js/main.21279d7b.chunk.js",
+    "main.js.map": "/annotweet-fe/static/js/main.21279d7b.chunk.js.map",
     "runtime-main.js": "/annotweet-fe/static/js/runtime-main.0d3fefcc.js",
     "runtime-main.js.map": "/annotweet-fe/static/js/runtime-main.0d3fefcc.js.map",
     "static/js/2.66ff2beb.chunk.js": "/annotweet-fe/static/js/2.66ff2beb.chunk.js",
     "static/js/2.66ff2beb.chunk.js.map": "/annotweet-fe/static/js/2.66ff2beb.chunk.js.map",
     "index.html": "/annotweet-fe/index.html",
-    "precache-manifest.3fe0f6ca2c7f3c75136cec601cbff807.js": "/annotweet-fe/precache-manifest.3fe0f6ca2c7f3c75136cec601cbff807.js",
+    "precache-manifest.5ccaf4c9d058586499ab5a717efb9bbe.js": "/annotweet-fe/precache-manifest.5ccaf4c9d058586499ab5a717efb9bbe.js",
     "service-worker.js": "/annotweet-fe/service-worker.js",
     "static/css/main.0ebde3ef.chunk.css.map": "/annotweet-fe/static/css/main.0ebde3ef.chunk.css.map",
     "static/js/2.66ff2beb.chunk.js.LICENSE.txt": "/annotweet-fe/static/js/2.66ff2beb.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0d3fefcc.js",
     "static/js/2.66ff2beb.chunk.js",
     "static/css/main.0ebde3ef.chunk.css",
-    "static/js/main.0afa2169.chunk.js"
+    "static/js/main.21279d7b.chunk.js"
   ]
 }
